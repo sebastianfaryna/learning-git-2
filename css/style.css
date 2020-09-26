@@ -18,3 +18,43 @@ body {
     border-radius: 10px;
     margin: 0;
 }
+
+h1 {
+    font-size: 7em;
+    margin: 0 auto;
+}
+
+.container {
+    width: 80%;
+    max-width: 700px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: #ffff;
+    padding: 20px;
+}
+
+.content {
+    text-align: center;
+    line-height: 2;
+}
+
+h2 {font-size: 2em;}
+
+h3, p {font-style: italic;}
+
+a {
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {text-decoration: underline;}
+
+.nav, footer {
+    text-align: center;
+    color: #ffff;
+    border: solid 1px #ffff;
+    border-radius: 10px;
+    margin: 0;
+}
